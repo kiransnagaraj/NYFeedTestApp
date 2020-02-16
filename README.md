@@ -8,3 +8,7 @@ Find test app which load news feed from newyork time most popular tab and displa
 Loaded popular news feed which displays list of newsfeed with title, description and image with date
 Onclick on newsfeed items given detail overview of newsfeed
 New feed data api http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api- which popular news feed items
+
+App Screenshots
+
+[https://github.com/kiransnagaraj/NYFeedTestApp/blob/master/screenshots/Screenshot_1581881528.png]
