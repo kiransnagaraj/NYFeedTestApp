@@ -6,4 +6,6 @@ Find test app which load news feed from newyork time most popular tab and displa
 
 
 
+New feed data api http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api- which popular news feed items
+
 
