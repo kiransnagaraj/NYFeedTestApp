@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="title_activity_feed_detail">FeedDetailActivity</string>
+</resources>
